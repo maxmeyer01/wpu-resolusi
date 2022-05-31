@@ -8,4 +8,8 @@ if "var01"="michael" then
   elif 
   echo "not michael"
  fi 
+ 
+while true do
+echo "let's go to  party"
+done
   
